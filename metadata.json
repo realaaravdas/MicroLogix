@@ -1,0 +1,6 @@
+{
+  "name": "MicroLogic CAD - Hardware Schematic Designer & CPU Logic Emulator",
+  "description": "Real-time browser-native hardware schematic designer and logic emulator capable of stepping from gate-level operations (AND, OR, Flip-Flops, Adders) to emulating an entire custom 8-bit/16-bit microprocessor running machine code with waveform analysis and AI assistance.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
